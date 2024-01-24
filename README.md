@@ -1,7 +1,9 @@
 # Delhivery-Feature-Engineering 
-
 Delhivery, India's leading and rapidly growing integrated player, has set its sights on creating the commerce operating system. They achieve this by utilizing world-class infrastructure, ensuring the highest quality in logistics
 operations, and harnessing cutting-edge engineering and technology capabilities.
+
+* Tech stack: Python, Pandas, Matplotlib, Seaborn, Data Cleaning, Data Visualization, Applied Statistics, Probability, Hypothesis Testing, MinMaxScaler, StandardScaler, pearsonr and Feature-Engineering
+
 ## Business Insights:
 * The data is given from the period '2018-09-12 00:00:22.88' to '2018-10-03 23:59:42.70'
 * There are a total of 12,369 unique trip UUIDs created, indicating that this many trips are present in the dataset.
