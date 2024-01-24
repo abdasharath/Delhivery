@@ -1,8 +1,8 @@
-Delhivery-Feature-Engineering 
+# Delhivery-Feature-Engineering 
 
 Delhivery, India's leading and rapidly growing integrated player, has set its sights on creating the commerce operating system. They achieve this by utilizing world-class infrastructure, ensuring the highest quality in logistics
 operations, and harnessing cutting-edge engineering and technology capabilities.
-# Business Insights:
+## Business Insights:
 * The data is given from the period '2018-09-12 00:00:22.88' to '2018-10-03 23:59:42.70'
 * There are a total of 12,369 unique trip UUIDs created, indicating that this many trips are present in the dataset.
 * There are about 32 unique destination state, 1256 unique destination city, 778 unique destination place and 27 unique destination code.
@@ -19,7 +19,7 @@ operations, and harnessing cutting-edge engineering and technology capabilities.
 * Busiest Day of the Week: Wednesday is identified as the busiest day of the week, with 4,819 trips. Thursday and Friday closely follow with 3,795 and 3,718 trips, respectively.
 * Busiest Day: The 18th day of the month is the busiest, recording 1,373 trips. Days 21, 13, 20, and 25 also exhibit high activity with similar trip counts.
 
-**Recommendation:**
+## Recommendation:
 * Collect feedback from customers regarding their experience during trips. Analyze customer satisfaction metrics to identify areas for improvement and enhance overall service quality.
 * Conduct a detailed analysis of routes to identify opportunities for optimization. Focus on routes with statistically significant differences in OSRM Time and Segment OSRM Time to enhance efficiency.
 * Investigate the reasons behind the similarity observed in Actual Time vs. Segment Actual Time. Consider refining the segmentation process to ensure that segment-specific features contribute to better predictions.
